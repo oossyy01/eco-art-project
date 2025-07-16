@@ -26,7 +26,7 @@ digitaWrite(13,HIGH)
 - 예상 완성도
 
 ### 2단계: 완성품
-![완성품 1](rpppp.jpg)
+![완성품 1](rpppp.png)
 
 ## 💭 제작 후기
 ### 잘된 점
